@@ -1,0 +1,6 @@
+pandas
+apscheduler
+requests
+psycopg2-binary
+sqlalchemy
+matplotlib
